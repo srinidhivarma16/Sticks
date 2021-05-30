@@ -1,0 +1,10 @@
+Start
+Declare variables t,n,i
+Declare a string a
+Initialize the variables int the string 
+Find the area of rectangle
+If so
+Print the value of rectangle 
+Else
+Print -1
+End
